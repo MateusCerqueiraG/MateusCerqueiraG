@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Mateus
 
-<!--
-**MateusCerqueiraG/MateusCerqueiraG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 QA Tester Júnior em formação, focado em testes manuais e qualidade de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Sobre mim
+Atualmente estou me desenvolvendo na área de Quality Assurance (QA), com foco em:
+
+- Testes manuais de software  
+- Criação de casos de teste  
+- Documentação de bugs  
+- Validação de funcionalidades web  
+
+Estou construindo experiência prática através de projetos pessoais e de estudo.
+
+---
+
+## 📚 Conhecimentos
+- Testes manuais  
+- Casos de teste  
+- Bug reports  
+- Noções de testes de API  
+- Metodologias ágeis (Scrum / Kanban)
+
+---
+
+## 💼 Projetos
+📌 Sistema de testes em aplicação web (Portfólio QA)  
+📌 Testes de API (Projeto acadêmico)
+
+👉 Veja meus repositórios abaixo
+
+---
+
+## 🎯 Objetivo
+Buscar uma oportunidade como QA Júnior para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a qualidade de software.
+
+---
+
+## 📫 Contato
+- LinkedIn: (coloque aqui)
+- GitHub: (já está aqui 😄)
+
+---
+
+💡 Em constante aprendizado na área de QA
