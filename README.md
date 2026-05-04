@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mateus!👋🏽;I'm+a+QA+Tester+Junior+in+formation🧪)](https://git.io/typing-svg)
-
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
 - 🧪 QA Tester Júnior em formação  
 - 🔍 Foco em testes manuais de software  
@@ -14,7 +12,7 @@
 
 ---
 
-## 🧪 Skills
+## 🧪 Habilidades
 
 - Testes manuais de software  
 - Criação de casos de teste  
@@ -24,24 +22,24 @@
 
 ---
 
-## 💼 Projects
+## 💼 Projetos
 
 📌 Sistema de testes em aplicação web (Portfólio QA)  
 📌 Testes de API (Projeto acadêmico)  
 
-👉 Repositórios abaixo no GitHub
+👉 Repositórios abaixo
 
 ---
 
-## 🎯 Goal
+## 🎯 Objetivo
 
 Busco minha primeira oportunidade como **QA Júnior**, para aplicar conhecimentos em testes de software, evoluir tecnicamente e contribuir com a qualidade de aplicações.
 
 ---
 
-## 📫 Connect with me
+## 📫 Contatos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF)]([https://www.linkedin.com](https://www.linkedin.com/in/mateus-cerqueira-861b322b8/?skipRedirect=true))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF)](https://www.linkedin.com/in/mateus-cerqueira-861b322b8/?skipRedirect=true)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF)](mailto:mateuscgonzaga@gmail.com)
 
 ---
