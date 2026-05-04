@@ -39,7 +39,7 @@ Buscar uma oportunidade como QA Júnior para aplicar meus conhecimentos, evoluir
 ---
 
 ## 📫 Contato
-- LinkedIn: (coloque aqui)
+- LinkedIn: (https://www.linkedin.com/in/mateus-cerqueira-861b322b8/?skipRedirect=true)
 - GitHub: (já está aqui 😄)
 
 ---
