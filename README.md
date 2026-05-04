@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Mateus
 
-🎯 QA Tester Júnior em formação, focado em testes manuais e qualidade de software.
+🎯 QA Tester Júnior, focado em testes manuais e qualidade de software.
 
 ---
 
