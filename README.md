@@ -1,47 +1,49 @@
-# 👋 Olá, eu sou o Mateus
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=header"/>
 
-🎯 QA Tester Júnior, focado em testes manuais e qualidade de software.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mateus!👋🏽;I'm+a+QA+Tester+Junior+in+formation🧪)](https://git.io/typing-svg)
 
 ---
 
-## 🧪 Sobre mim
-Atualmente estou me desenvolvendo na área de Quality Assurance (QA), com foco em:
+## 👨‍💻 About Me
+
+- 🧪 QA Tester Júnior em formação  
+- 🔍 Foco em testes manuais de software  
+- 🐞 Criação de casos de teste e bug reports  
+- 🌐 Interesse em qualidade de software e melhoria de sistemas  
+- 📚 Em constante aprendizado na área de QA  
+
+---
+
+## 🧪 Skills
 
 - Testes manuais de software  
 - Criação de casos de teste  
 - Documentação de bugs  
-- Validação de funcionalidades web  
-
-Estou construindo experiência prática através de projetos pessoais e de estudo.
-
----
-
-## 📚 Conhecimentos
-- Testes manuais  
-- Casos de teste  
-- Bug reports  
 - Noções de testes de API  
-- Metodologias ágeis (Scrum / Kanban)
+- Noções de metodologias ágeis (Scrum / Kanban)  
 
 ---
 
-## 💼 Projetos
+## 💼 Projects
+
 📌 Sistema de testes em aplicação web (Portfólio QA)  
-📌 Testes de API (Projeto acadêmico)
+📌 Testes de API (Projeto acadêmico)  
 
-👉 Veja meus repositórios abaixo
-
----
-
-## 🎯 Objetivo
-Buscar uma oportunidade como QA Júnior para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a qualidade de software.
+👉 Repositórios abaixo no GitHub
 
 ---
 
-## 📫 Contato
-- LinkedIn: (https://www.linkedin.com/in/mateus-cerqueira-861b322b8/?skipRedirect=true)
-- GitHub: (já está aqui 😄)
+## 🎯 Goal
+
+Busco minha primeira oportunidade como **QA Júnior**, para aplicar conhecimentos em testes de software, evoluir tecnicamente e contribuir com a qualidade de aplicações.
 
 ---
 
-💡 Em constante aprendizado na área de QA
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF)]([https://www.linkedin.com](https://www.linkedin.com/in/mateus-cerqueira-861b322b8/?skipRedirect=true))
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF)](mailto:mateuscgonzaga@gmail.com)
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=footer"/>
