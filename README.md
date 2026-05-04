@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=header"/>
-
 ---
 
 ## 👨‍💻 Sobre mim
@@ -43,5 +41,3 @@ Busco minha primeira oportunidade como **QA Júnior**, para aplicar conhecimento
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF)](mailto:mateuscgonzaga@gmail.com)
 
 ---
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=footer"/>
