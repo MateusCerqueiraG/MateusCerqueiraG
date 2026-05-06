@@ -27,14 +27,11 @@
 <p align="center">
   ══════════ | Contato | ══════════
   <br><br>
-<p align="center">
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-222?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateusCerqueiraG)
 
-  <a href="https://www.linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-222?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mateuscerqueirag/)
+
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:mateuscgonzaga@gmail.com)
 
 ---
