@@ -12,8 +12,16 @@
 
 ---
 
+## 🛠️ Ferramentas e Tecnologias
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,git,github" />
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=eclipse" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+
 </p>
 
 ---
