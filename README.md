@@ -4,7 +4,7 @@
 
 🧪 QA Tester Júnior
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=500&lines=Loading+progress..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFF&size=24&center=true&vCenter=true&width=500&lines=Loading+progress..." />
 </p>
 
 ---
