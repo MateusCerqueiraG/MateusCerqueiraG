@@ -27,12 +27,13 @@
 <p align="center">
   ══════════ | Contato | ══════════
   <br><br>
-  <a href="mailto:mateuscgonzaga@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <p align="center">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-seuemail@gmail.com-333?style=flat&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mateus-cerqueira-861b322b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-333?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
