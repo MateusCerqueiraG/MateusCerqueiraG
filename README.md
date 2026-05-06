@@ -1,4 +1,4 @@
-<img src="https://ashleyha.com/_next/image?url=%2Fclaudetouch3.jpeg&w=1920&q=75" width="1000" height="200">
+<img src="https://ashleyha.com/_next/image?url=%2Fclaudetouch3.jpeg&w=1920&q=75" width="1000" height="350">
 ---
 
 ## 👨‍💻 Sobre mim
