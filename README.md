@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-<img src="terminal.png" width="700" height="300">
+<img src="terminal.gif" width="700" height="300">
 </div>
 
 ---
