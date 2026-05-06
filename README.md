@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFF&size=24&center=true&vCenter=true&width=500&lines=Loading+progress..." />
 </p>
 
+<div align="center">
+<img src="terminal.png" width="700" height="300">
+</div>
+
 ---
 
 <div align="center">
