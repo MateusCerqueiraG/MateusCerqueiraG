@@ -12,7 +12,7 @@
 
 ---
 
-<div align="center" style="border:1px solid #444; border-radius:12px; padding:20px; display:inline-block;">
+<div align="center" style="background-color:#111; border:1px solid #333; border-radius:12px; padding:20px; display:inline-block;">
 
 ## 🛠️ Ferramentas e Tecnologias
 
