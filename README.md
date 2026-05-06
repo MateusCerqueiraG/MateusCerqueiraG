@@ -32,25 +32,3 @@
 </div>
 
 ---
-
-<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
-
-  <text x="20" y="40" fill="#00ff00" font-family="monospace">
-    $ role
-  </text>
-
-  <text x="20" y="70" fill="#ffffff" font-family="monospace">
-    QA Tester
-  </text>
-
-  <text x="20" y="110" fill="#00ff00" font-family="monospace">
-    $ Animal
-  </text>
-
-  <text x="20" y="140" fill="#ffffff" font-family="monospace">
-    Tamanduá
-  </text>
-
-</svg>
