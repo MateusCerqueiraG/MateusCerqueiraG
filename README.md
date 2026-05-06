@@ -12,15 +12,13 @@
 
 ---
 
-<div align="center" style="border:1px solid #FFF; border-radius:15px; padding:25px; display:inline-block; box-shadow:0px 0px 10px rgba(0,255,0,0.15);">
-
-## 🛠️ Ferramentas e Tecnologias
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&height=80&lines=Ferramentas+e+Tecnologias" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,git,github" />
 </p>
-
-</div>
 
 ---
 
