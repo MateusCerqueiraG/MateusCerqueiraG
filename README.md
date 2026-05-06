@@ -1,4 +1,4 @@
-<img src="header.gif" width="1000" height="350">
+<img src="header.gif" width="200" height="350">
 
 <h1 align="center">Mateus Cerqueira</h1>
 
