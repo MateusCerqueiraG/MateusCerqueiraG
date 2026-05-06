@@ -15,7 +15,7 @@
 <div align="center">
 
 <p align="center">
-═══════════ | Ferramentas e Tecnologias | ═══════════
+═════════ | Ferramentas e Tecnologias | ═════════
 </p>
 
 <p>
