@@ -3,7 +3,7 @@
 <h1 align="center">Mateus Cerqueira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=500&lines=QA+Tester;Testes+Manuais;Foco+em+Qualidade+de+Software" />
+  ─────────────── ✦ QA Tester ✦ ───────────────
 </p>
 
 <p align="center">
