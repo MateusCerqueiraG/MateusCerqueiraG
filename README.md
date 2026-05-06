@@ -1,6 +1,6 @@
 <img src="https://ashleyha.com/_next/image?url=%2Fclaudetouch3.jpeg&w=1920&q=75" width="1000" height="350">
 
-X Mateus Cerqueira X
+<h2>X Mateus Cerqueira X</h2>
 - QA Tester Júnior
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFF&size=24&center=true&vCenter=true&width=500&lines=Loading+progress..." />
