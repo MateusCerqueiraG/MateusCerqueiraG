@@ -12,13 +12,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&height=80&lines=Ferramentas+e+Tecnologias" />
-</p>
+<div align="center">
 
-<p align="center">
+## 🛠️ Ferramentas e Tecnologias
+
+<p>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,git,github" />
 </p>
+
+</div>
 
 ---
 
