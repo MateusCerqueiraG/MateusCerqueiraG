@@ -12,38 +12,9 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-- 🧪 QA Tester Júnior em formação  
-- 🔍 Foco em testes manuais de software  
-- 🐞 Criação de casos de teste e bug reports  
-- 🌐 Interesse em qualidade de software e melhoria de sistemas  
-- 📚 Em constante aprendizado na área de QA  
-
----
-
-## 🧪 Habilidades
-
-- Testes manuais de software  
-- Criação de casos de teste  
-- Documentação de bugs  
-- Noções de testes de API  
-- Noções de metodologias ágeis (Scrum / Kanban)  
-
----
-
-## 💼 Projetos
-
-📌 Sistema de testes em aplicação web (Portfólio QA)  
-📌 Testes de API (Projeto acadêmico)  
-
-👉 Repositórios abaixo
-
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como **QA Júnior**, para aplicar conhecimentos em testes de software, evoluir tecnicamente e contribuir com a qualidade de aplicações.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,git,github" />
+</p>
 
 ---
 
