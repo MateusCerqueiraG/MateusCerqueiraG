@@ -27,13 +27,13 @@
 <p align="center">
   ══════════ | Contato | ══════════
   <br><br>
-  <p align="center">
+<p align="center">
   <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-seuemail@gmail.com-333?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contato-222?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-333?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-222?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
