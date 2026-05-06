@@ -1,4 +1,4 @@
-<img src="https://ashleyha.com/_next/image?url=%2Fclaudetouch3.jpeg&w=1920&q=75" width="1000" height="350">
+<img src="header.gif" width="1000" height="350">
 
 <h1 align="center">Mateus Cerqueira</h1>
 
