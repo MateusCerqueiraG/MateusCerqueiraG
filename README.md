@@ -1,5 +1,5 @@
 <div align="center">
-<img src="header.gif" width="900" height="250">
+<img src="header.gif" width="900" height="450">
 </div>
 
 <h1 align="center">Mateus Cerqueira</h1>
