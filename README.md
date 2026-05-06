@@ -24,10 +24,11 @@
 
 ---
 
-<p align="center">
+<div align="center">
   ══════════ | Contato | ══════════
   <br><br>
   
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateusCerqueiraG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mateuscerqueirag/) [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:mateuscgonzaga@gmail.com)
+</div>
 
 ---
