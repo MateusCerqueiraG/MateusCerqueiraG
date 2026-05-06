@@ -12,11 +12,15 @@
 
 ---
 
+<div align="center" style="border:1px solid #444; border-radius:12px; padding:20px; display:inline-block;">
+
 ## 🛠️ Ferramentas e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,git,github,javascript" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,git,github" />
 </p>
+
+</div>
 
 ---
 
