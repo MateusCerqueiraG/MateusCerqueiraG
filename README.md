@@ -14,7 +14,9 @@
 
 <div align="center">
 
-## ═══════════ | Ferramentas e Tecnologias | ═══════════
+<p align="center">
+═══════════ | Ferramentas e Tecnologias | ═══════════
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,git,github" />
