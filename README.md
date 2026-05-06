@@ -25,7 +25,8 @@
 ---
 
 <p align="center">
-  ## 📫 Contato
+  ══════════ | Contato | ══════════
+  <br>
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
