@@ -23,7 +23,7 @@
 ══════════ | Ferramentas e Tecnologias | ══════════
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,selenium,git,github" />
 </p>
 
 </div>
