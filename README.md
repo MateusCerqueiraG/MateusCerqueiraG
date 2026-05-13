@@ -1,5 +1,5 @@
 <div align="center">
-<img src="QATester.gif" width="900" height="450">
+<img src="QATester.png" width="900" height="450">
 </div>
 
 <h1 align="center">Mateus Cerqueira</h1>
