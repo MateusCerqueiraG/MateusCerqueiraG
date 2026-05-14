@@ -23,7 +23,8 @@
 ══════════ | Ferramentas e Tecnologias | ══════════
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,junit,selenium,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,java,selenium,nodejs,git,github" /> <br>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 </div>
