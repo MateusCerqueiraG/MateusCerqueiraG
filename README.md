@@ -25,6 +25,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,java,selenium,nodejs,js,html,css,git,github" /> <br>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/BDD-Gherkin-0A7BFF?style=for-the-badge&logo=cucumber&logoColor=white" />
 </p>
 
 </div>
