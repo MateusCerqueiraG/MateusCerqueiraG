@@ -1,37 +1,42 @@
-<svg width="840" height="150" viewBox="0 0 840 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Stats de Mateus Cerqueira">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0a2032"/>
-      <stop offset="1" stop-color="#103a4e"/>
-    </linearGradient>
-    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8fb0d0"/>
-      <stop offset="0.5" stop-color="#eef5fd"/>
-      <stop offset="1" stop-color="#8fb0d0"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="838" height="148" rx="14" fill="url(#bg)" stroke="#1f4b5e" stroke-width="1"/>
-  <rect x="1" y="1" width="838" height="6" rx="3" fill="#5fd0e6"/>
-
-  <text x="420" y="34" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="13" letter-spacing="6" fill="url(#silver)">G I T H U B   S T A T S</text>
-  <line x1="40" y1="50" x2="800" y2="50" stroke="#1f4b5e" stroke-width="1"/>
-
-  <!-- dividers -->
-  <line x1="210" y1="68" x2="210" y2="128" stroke="#1f4b5e" stroke-width="1"/>
-  <line x1="420" y1="68" x2="420" y2="128" stroke="#1f4b5e" stroke-width="1"/>
-  <line x1="630" y1="68" x2="630" y2="128" stroke="#1f4b5e" stroke-width="1"/>
-
-  <g text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif">
-    <text x="105" y="100" font-size="30" font-weight="800" fill="#7fe0f0">26</text>
-    <text x="105" y="122" font-size="12.5" fill="#9fc0d6">Repositórios públicos</text>
-
-    <text x="315" y="100" font-size="30" font-weight="800" fill="#7fe0f0">10</text>
-    <text x="315" y="122" font-size="12.5" fill="#9fc0d6">Projetos ativos</text>
-
-    <text x="525" y="100" font-size="30" font-weight="800" fill="#7fe0f0">8</text>
-    <text x="525" y="122" font-size="12.5" fill="#9fc0d6">Seguidores</text>
-
-    <text x="735" y="99" font-size="25" font-weight="800" fill="#7fe0f0">Mar 2023</text>
-    <text x="735" y="122" font-size="12.5" fill="#9fc0d6">Membro desde</text>
-  </g>
+<svg width="840" height="224" viewBox="0 0 840 224" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Stats">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a2032"/><stop offset="1" stop-color="#103a4e"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8fb0d0"/><stop offset="0.5" stop-color="#eef5fd"/><stop offset="1" stop-color="#8fb0d0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="838" height="222" rx="14" fill="url(#bg)" stroke="#1f4b5e" stroke-width="1"/>
+<rect x="1" y="1" width="838" height="6" rx="3" fill="#5fd0e6"/>
+<text x="420" y="34" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="13" letter-spacing="6" fill="url(#silver)">G I T H U B   S T A T S</text>
+<line x1="40" y1="48" x2="800" y2="48" stroke="#1f4b5e" stroke-width="1"/>
+<line x1="210" y1="62" x2="210" y2="112" stroke="#1f4b5e" stroke-width="1"/>
+<line x1="420" y1="62" x2="420" y2="112" stroke="#1f4b5e" stroke-width="1"/>
+<line x1="630" y1="62" x2="630" y2="112" stroke="#1f4b5e" stroke-width="1"/>
+<g text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif">
+<text x="105" y="90" font-size="28" font-weight="800" fill="#7fe0f0">26</text>
+<text x="105" y="110" font-size="12" fill="#9fc0d6">Repositórios</text>
+<text x="315" y="90" font-size="28" font-weight="800" fill="#7fe0f0">10</text>
+<text x="315" y="110" font-size="12" fill="#9fc0d6">Projetos ativos</text>
+<text x="525" y="90" font-size="28" font-weight="800" fill="#7fe0f0">8</text>
+<text x="525" y="110" font-size="12" fill="#9fc0d6">Seguidores</text>
+<text x="735" y="90" font-size="24" font-weight="800" fill="#7fe0f0">Mar 2023</text>
+<text x="735" y="110" font-size="12" fill="#9fc0d6">Membro desde</text>
+</g>
+<line x1="40" y1="128" x2="800" y2="128" stroke="#1f4b5e" stroke-width="1"/>
+<text x="40" y="152" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11.5" letter-spacing="3" fill="#6f93a8">LINGUAGENS MAIS USADAS</text>
+<clipPath id="barclip"><rect x="40" y="162" width="760" height="16" rx="8"/></clipPath>
+<g clip-path="url(#barclip)">
+<rect x="40.0" y="162" width="309.3" height="16" fill="#5fd0e6"/>
+<rect x="348.3" y="162" width="227.3" height="16" fill="#9fb8d4"/>
+<rect x="574.5" y="162" width="134.6" height="16" fill="#2aa7c4"/>
+<rect x="708.1" y="162" width="92.9" height="16" fill="#6fcf97"/>
+</g>
+<g font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12.5" fill="#b3cfe0">
+<circle cx="44" cy="198" r="4" fill="#5fd0e6"/>
+<text x="55" y="202">Java 40.6%</text>
+<circle cx="144" cy="198" r="4" fill="#9fb8d4"/>
+<text x="155" y="202">JavaScript 29.8%</text>
+<circle cx="292" cy="198" r="4" fill="#2aa7c4"/>
+<text x="303" y="202">Python 17.6%</text>
+<circle cx="408" cy="198" r="4" fill="#6fcf97"/>
+<text x="419" y="202">Gherkin 12.1%</text>
+</g>
 </svg>
