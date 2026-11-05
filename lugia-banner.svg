@@ -1,0 +1,29 @@
+<svg width="840" height="190" viewBox="0 0 840 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="QA Tester">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#081626"/>
+      <stop offset="0.6" stop-color="#0c2a3e"/>
+      <stop offset="1" stop-color="#103a4e"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8fb0d0"/>
+      <stop offset="0.5" stop-color="#eef5fd"/>
+      <stop offset="1" stop-color="#8fb0d0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.6">
+      <stop offset="0" stop-color="#2aa7c4" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2aa7c4" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="box"><rect width="840" height="190" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#box)">
+    <rect width="840" height="190" fill="url(#sky)"/>
+    <ellipse cx="420" cy="80" rx="360" ry="120" fill="url(#glow)"/>
+    <circle cx="110" cy="38" r="1.5" fill="#dcebfb"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.8s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="230" cy="28" r="1.5" fill="#dcebfb"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.4s" begin="0.4s" repeatCount="indefinite"/></circle><circle cx="360" cy="46" r="1.5" fill="#dcebfb"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></circle><circle cx="520" cy="30" r="1.5" fill="#dcebfb"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="650" cy="40" r="1.5" fill="#dcebfb"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.9s" begin="1.6s" repeatCount="indefinite"/></circle><circle cx="740" cy="26" r="1.5" fill="#dcebfb"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.6s" begin="2.0s" repeatCount="indefinite"/></circle><circle cx="790" cy="60" r="1.5" fill="#dcebfb"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="2.4s" repeatCount="indefinite"/></circle><circle cx="60" cy="64" r="1.5" fill="#dcebfb"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="2.8s" repeatCount="indefinite"/></circle>
+    <text x="420" y="92" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="8" fill="url(#silver)">QA TESTER</text>
+    <text x="420" y="116" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12.5" letter-spacing="4" fill="#7fc3d8">AUTOMAÇÃO &#183; WEB &#183; API &#183; MOBILE</text>
+    <path d="M -210 150 Q -158 134 -105 150 T 0 150 T 105 150 T 210 150 T 315 150 T 420 150 T 525 150 T 630 150 T 735 150 T 840 150 T 945 150 T 1050 150 V 190 H -210 Z" fill="#145c78" opacity="0.6"><animateTransform attributeName="transform" type="translate" values="0 0; -210 0" dur="8s" calcMode="linear" repeatCount="indefinite"/></path>
+    <path d="M -210 162 Q -158 149 -105 162 T 0 162 T 105 162 T 210 162 T 315 162 T 420 162 T 525 162 T 630 162 T 735 162 T 840 162 T 945 162 T 1050 162 V 190 H -210 Z" fill="#1f87a6" opacity="0.5"><animateTransform attributeName="transform" type="translate" values="0 0; 210 0" dur="11s" calcMode="linear" repeatCount="indefinite"/></path>
+    <path d="M -210 172 Q -158 162 -105 172 T 0 172 T 105 172 T 210 172 T 315 172 T 420 172 T 525 172 T 630 172 T 735 172 T 840 172 T 945 172 T 1050 172 V 190 H -210 Z" fill="#5fd0e6" opacity="0.38"><animateTransform attributeName="transform" type="translate" values="0 0; -210 0" dur="14s" calcMode="linear" repeatCount="indefinite"/></path>
+  </g>
+</svg>
