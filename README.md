@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-<img src="github-stats.svg" width="480" alt="GitHub Stats">
+<img src="lugia-banner.svg" width="820" alt="QA Tester">
 </div>
 
 ---
@@ -47,6 +47,16 @@
 **💻 Linguagens & Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,gitlab,postman,vscode,eclipse" />
+
+</div>
+
+---
+
+<div align="center">
+
+══════════ | GitHub Stats | ══════════
+
+<img src="github-stats.svg" width="470" alt="GitHub Stats">
 
 </div>
 
