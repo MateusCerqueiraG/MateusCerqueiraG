@@ -1,0 +1,40 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # todo dia às 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - scripts/gen_stats.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Gera o card de stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_stats.py
+
+      - name: Commita se mudou
+        run: |
+          if ! git diff --quiet -- github-stats.svg; then
+            git -c user.name='github-actions[bot]' \
+                -c user.email='github-actions[bot]@users.noreply.github.com' \
+                commit -am "chore: atualiza github stats (automático)"
+            git push
+          else
+            echo "stats sem mudanças — nada a commitar"
+          fi
