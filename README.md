@@ -56,7 +56,7 @@
 
 ══════════ | GitHub Stats | ══════════
 
-<img src="github-stats.svg" width="470" alt="GitHub Stats">
+<img src="github-stats.svg" width="100%" alt="GitHub Stats">
 
 </div>
 
