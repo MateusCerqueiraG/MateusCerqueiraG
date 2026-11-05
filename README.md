@@ -22,8 +22,6 @@
 
 ══════════ | Stack & Ferramentas | ══════════
 
-</div>
-
 **🤖 Automação & Testes**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -49,6 +47,8 @@
 **💻 Linguagens & Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,gitlab,postman,vscode,eclipse" />
+
+</div>
 
 ---
 
