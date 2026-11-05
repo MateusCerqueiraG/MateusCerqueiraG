@@ -1,21 +1,26 @@
 <svg width="480" height="210" viewBox="0 0 480 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Stats de Mateus Cerqueira">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1a1b27"/>
-      <stop offset="1" stop-color="#20223a"/>
+      <stop offset="0" stop-color="#0a2032"/>
+      <stop offset="1" stop-color="#103a4e"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8fb0d0"/>
+      <stop offset="0.5" stop-color="#eef5fd"/>
+      <stop offset="1" stop-color="#8fb0d0"/>
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="478" height="208" rx="14" fill="url(#bg)" stroke="#2a2b45" stroke-width="1"/>
-  <rect x="1" y="1" width="6" height="208" rx="3" fill="#70a5fd"/>
+  <rect x="1" y="1" width="478" height="208" rx="14" fill="url(#bg)" stroke="#1f4b5e" stroke-width="1"/>
+  <rect x="1" y="1" width="6" height="208" rx="3" fill="#5fd0e6"/>
 
-  <text x="30" y="42" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#70a5fd">GitHub Stats</text>
-  <text x="30" y="63" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12.5" fill="#565f89">Mateus Cerqueira &#183; @MateusCerqueiraG</text>
-  <line x1="30" y1="78" x2="450" y2="78" stroke="#2a2b45" stroke-width="1"/>
+  <text x="30" y="42" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="20" font-weight="700" fill="url(#silver)">GitHub Stats</text>
+  <text x="30" y="63" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12.5" fill="#5a8299">Mateus Cerqueira &#183; @MateusCerqueiraG</text>
+  <line x1="30" y1="78" x2="450" y2="78" stroke="#1f4b5e" stroke-width="1"/>
 
-  <g font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="14.5" fill="#a9b1d6">
-    <circle cx="34" cy="104" r="3.5" fill="#bf91f3"/><text x="48" y="109">Repositórios públicos</text><text x="450" y="109" text-anchor="end" font-weight="700" fill="#70a5fd">26</text>
-    <circle cx="34" cy="132" r="3.5" fill="#bf91f3"/><text x="48" y="137">Projetos ativos</text><text x="450" y="137" text-anchor="end" font-weight="700" fill="#70a5fd">10</text>
-    <circle cx="34" cy="160" r="3.5" fill="#bf91f3"/><text x="48" y="165">Seguidores</text><text x="450" y="165" text-anchor="end" font-weight="700" fill="#70a5fd">8</text>
-    <circle cx="34" cy="188" r="3.5" fill="#bf91f3"/><text x="48" y="193">Membro desde</text><text x="450" y="193" text-anchor="end" font-weight="700" fill="#70a5fd">mar 2023</text>
+  <g font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="14.5" fill="#b3cfe0">
+    <circle cx="34" cy="104" r="3.5" fill="#2aa7c4"/><text x="48" y="109">Repositórios públicos</text><text x="450" y="109" text-anchor="end" font-weight="700" fill="#7fe0f0">26</text>
+    <circle cx="34" cy="132" r="3.5" fill="#2aa7c4"/><text x="48" y="137">Projetos ativos</text><text x="450" y="137" text-anchor="end" font-weight="700" fill="#7fe0f0">10</text>
+    <circle cx="34" cy="160" r="3.5" fill="#2aa7c4"/><text x="48" y="165">Seguidores</text><text x="450" y="165" text-anchor="end" font-weight="700" fill="#7fe0f0">8</text>
+    <circle cx="34" cy="188" r="3.5" fill="#2aa7c4"/><text x="48" y="193">Membro desde</text><text x="450" y="193" text-anchor="end" font-weight="700" fill="#7fe0f0">mar 2023</text>
   </g>
 </svg>
