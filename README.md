@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-<img src="terminal.gif" width="700" height="300">
+<img src="github-stats.svg" width="480" alt="GitHub Stats">
 </div>
 
 ---
